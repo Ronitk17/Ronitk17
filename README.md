@@ -1,5 +1,4 @@
 - 👋 Hi, I'm @RonitKoli
 - 👀 I'm interested in Machine Learning and Data Science.
-- 🌱 I'm currently learning Java, DSA and Web Development.
 - 💻 I'm working on Machine Learning & Web Development projects.
 - 📫 How to reach me: ronitofficial10@gmail.com
